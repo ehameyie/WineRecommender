@@ -15,11 +15,11 @@ Unless you are a connoisseur, most people struggle to pair the correct wine with
 The user enters the meal or cheese she is about to partake of, as well as her location (zip code). The recommender outputs the best wine to pair her meal/cheese with, with a short explanation. The system also outputs the second best and cheaper wine to pair her food, as well as the worst wine she should not pair it with. 
 
 The recommender system then answers general statistics about its datasets:
-What is the highest rated wine?
-What is the lowest rated wine?
-Which country makes the best wine?
-Which country has the worst wine?
-Which grapes make the best wine?
+   1. What is the highest rated wine?
+   2. What is the lowest rated wine?
+   3. Which country makes the best wine?
+   4. Which country has the worst wine?
+   5. Which grapes make the best wine?
 ### Additional Feature
 Depending on time, we will implement a recommendation of wine tasting events within 25 miles of the user’s location. 
 
@@ -45,6 +45,6 @@ If API or dataset not readily available for download, create a database of wine 
    2. Try out Weka for advanced stats/machine learning - Eunice
 #### Implement test use cases to test and validate all use cases run properly
    1. Confirm user can only enter predefined food categories  Viktoriya
-   2. Confirm user enters valid location,; if not that system returns “Zip code cannot be located, please re-enter” - Viktoriya
+   2. Confirm user enters valid location; if not, that system returns “Zip code cannot be located, please re-enter” - Viktoriya
    3. Confirm correct statistics are displayed answering questions in the description - Eunice
    4. Confirm correct wine pairings are recommended - Viktoriya
