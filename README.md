@@ -1,5 +1,6 @@
 # Project Idea: A Wine Recommender System in Java
 Engine that recommends best wine/food/cheese parings
+Available @ <https://github.com/ehameyie/WineRecommender>
 
 ### MCIT 591 Spring 2019 - Final Project
 
